@@ -1,0 +1,30 @@
+What is TypeScript?
+-language by microsoft
+-was built to replace JS
+-super set for JS
+-generates the most optimised JS code
+-declare the type of variable 
+-it is typesafe unlike JS which is not typesafe
+-no compile time error but it exists in typescript
+-transpilation is the process of converting TS ---> js 
+
+write it once, upgrade to anything to js version.
+
+ES5 and ES6
+
+(ts file-->js file)to create a js file from ts file: 
+1.run tsc filename
+
+to run a js file : node filename
+node-runtime for JS
+
+we have to convert the ts file to js file since the browsers can only understand js files not typescript.
+
+
+
+
+
+
+class Student{
+
+}

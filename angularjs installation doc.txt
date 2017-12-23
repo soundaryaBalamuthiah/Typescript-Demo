@@ -1,0 +1,8 @@
+1.NodeJS version > 6 (node -v)
+2.npm version > 3 (npm -v)
+3.npm install -g typescript and tsc -v
+4.npm install -g @angular/cli@latest
+
+Uses of Angular cli: 
+SCAFFOLDING- creating template. This wil help u s to create a starter template.
+
